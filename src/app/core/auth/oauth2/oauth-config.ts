@@ -4,7 +4,7 @@ export const authConfig: AuthConfig = {
 
   issuer: 'https://accounts.google.com',
 
-  redirectUri: 'http://localhost:4200/dashboard',
+  redirectUri: 'https://shockedfish.github.io/new-project/dashboard',
 
   clientId: '65971421092-lhia59hujfh6a5ggjimpg66g32rci2sa.apps.googleusercontent.com',
 
